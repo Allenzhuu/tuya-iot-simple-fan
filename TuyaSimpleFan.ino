@@ -38,7 +38,7 @@ unsigned char dp_array[][2] =
   {DPID_LED, DP_TYPE_BOOL},
 };
 
-unsigned char pid[] = {"11qfaii4i9z6obrh"};
+unsigned char pid[] = {"your_pid_from_tuya_iot"};
 unsigned char mcu_ver[] = {"1.0.0"};
 
 /* last time */
